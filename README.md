@@ -29,5 +29,6 @@ Hardware BoM is
 - 3 and 4 pins JST XH2.54 cables and terminals (https://www.aliexpress.com/item/32968520253.html and https://www.aliexpress.com/item/4000801004876.html)
 - 4x M3x8mm screws
 - Micro USB to USB cable
+- Cherry MX switches (https://www.aliexpress.com/item/4000406734661.html)
 
 STL files should be printed using 0.1mm layer height and 3 walls
