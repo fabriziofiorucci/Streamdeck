@@ -32,3 +32,5 @@ Hardware BoM is
 - Cherry MX switches (https://www.aliexpress.com/item/4000406734661.html)
 
 STL files should be printed using 0.1mm layer height and 3 walls
+
+On thingiverse: https://www.thingiverse.com/thing:4737914
