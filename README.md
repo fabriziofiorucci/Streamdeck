@@ -32,6 +32,4 @@ Hardware BoM is
 
 STL files should be printed using 0.1mm layer height and 3 walls
 
-<img src="./Streamdeck/images/IMG_0758.JPG"/>
-<img src="./Streamdeck/images/IMG_0750.JPG"/>
-<img src="./Streamdeck/images/IMG_0751.JPG"/>
+On thingiverse: https://www.thingiverse.com/thing:4737914
