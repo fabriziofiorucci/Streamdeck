@@ -31,3 +31,7 @@ Hardware BoM is
 - Micro USB to USB cable
 
 STL files should be printed using 0.1mm layer height and 3 walls
+
+<img src="./Streamdeck/images/IMG_0758.JPG"/>
+<img src="./Streamdeck/images/IMG_0750.JPG"/>
+<img src="./Streamdeck/images/IMG_0751.JPG"/>
