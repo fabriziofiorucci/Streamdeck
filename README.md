@@ -25,7 +25,7 @@ My current keys assignment (under Linux) is the following: it can be fully custo
 
 Hardware BoM is
 - Arduino pro micro (https://www.aliexpress.com/item/32989454699.html)
-- 0.96" 128x23 pixels OLED display (https://www.aliexpress.com/item/32672229793.html)
+- 0.96" 128x32 pixels OLED display (https://www.aliexpress.com/item/32672229793.html)
 - 3 and 4 pins JST XH2.54 cables and terminals (https://www.aliexpress.com/item/32968520253.html and https://www.aliexpress.com/item/4000801004876.html)
 - 4x M3x8mm screws
 - Micro USB to USB cable
