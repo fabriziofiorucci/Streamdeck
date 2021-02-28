@@ -34,3 +34,8 @@ Hardware BoM is
 STL files should be printed using 0.1mm layer height and 3 walls
 
 On thingiverse: https://www.thingiverse.com/thing:4737914
+
+Libraries needed to compile the sketch are:
+- https://www.arduino.cc/reference/en/libraries/adafruit-ssd1306/
+- https://www.arduino.cc/reference/en/libraries/adafruit-gfx-library/
+- https://www.arduino.cc/reference/en/libraries/keypad/
