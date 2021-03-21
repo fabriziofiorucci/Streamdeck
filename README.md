@@ -39,3 +39,7 @@ Libraries needed to compile the sketch are:
 - https://www.arduino.cc/reference/en/libraries/adafruit-ssd1306/
 - https://www.arduino.cc/reference/en/libraries/adafruit-gfx-library/
 - https://www.arduino.cc/reference/en/libraries/keypad/
+
+Important notes:
+- Stream_deck_body.stl, keys_plate_v6.stl and SSD1306_lid.stl must be printed for the final assembly as in the photographs.
+- Case Remix v2.stl is for macro_keypad_top_large_PCB.stl, I didn't try to print it as I don't have this specific keypad. If you happen to print it, please let me know if it fits well.
