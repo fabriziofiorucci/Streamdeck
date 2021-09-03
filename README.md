@@ -1,4 +1,4 @@
-# streamdeck
+# Streamdeck
 3D printed USB streamdeck
 
 This project is a remake of https://www.thingiverse.com/thing:4186055 based on an Arduino Pro Micro and HID capabilities
@@ -43,3 +43,13 @@ Libraries needed to compile the sketch are:
 Important notes:
 - Stream_deck_body.stl, keys_plate_v6.stl and SSD1306_lid.stl must be printed for the final assembly as in the photographs.
 - Case Remix v5.stl is for macro_keypad_top_large_PCB.stl, I didn't try to print it as I don't have this specific keypad. If you happen to print it, please let me know if it fits well.
+
+# Images
+
+<img src="./images/1.png"/>
+
+<img src="./images/2.png"/>
+
+<img src="./images/IMG_0758.jpg"/>
+
+<img src="./images/schematics.png"/>
