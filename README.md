@@ -48,8 +48,8 @@ Important notes:
 
 <img src="./images/1.png"/>
 
-<img src="./images/2.png"/>
+<img src="./images/2.jpg"/>
 
-<img src="./images/IMG_0758.jpg"/>
+<img src="./images/IMG_0758.JPG"/>
 
 <img src="./images/schematics.png"/>
